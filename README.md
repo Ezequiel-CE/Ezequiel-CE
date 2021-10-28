@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ezequiel-CE
+- 👋 Hi, I’m Ezequiel Carrizo a.k.a @Ezequiel-CE
 - 👀 I’m interested in ... programing
 - 🌱 I’m currently learning ... web development, machine learning
 - 💞️ I’m looking to collaborate on ... making robots 🤖
