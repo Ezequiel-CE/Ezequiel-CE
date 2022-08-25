@@ -1,4 +1,8 @@
-<h2> Hey there 👋! I'm Ezequiel.</h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
+<h2> Hey there!👋 I'm Ezequiel.</h2>
+
+
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -6,6 +10,7 @@
 - 🎓 &nbsp; Studying a degree in Computer Programming at Universidad Tecnologica Nacional.
 - 🌱 &nbsp; Learning more about Web development, Movile development and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Game development as hobbies.
+
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
