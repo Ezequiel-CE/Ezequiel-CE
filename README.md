@@ -44,8 +44,4 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align="center">
-<a href="https://ezequiel-ce.netlify.app"><img alt="Website" src="https://img.shields.io/badge/Website-www.ezequielce.netlify.app-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/ezequiel-carrizo-escudero-b45a42153/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ezequiel%20Carrizo%20Escudero-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:ezequielce490@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ezequielce490@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
+
